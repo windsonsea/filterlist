@@ -27,5 +27,7 @@ the classifications commonly referenced for large model service filings generall
 5. [Cybersecurity Risk](list/A.2/Cybersecurity.md): Providing hacking tools, vulnerability information, or illegal software.
 6. [Discrimination/Hate Speech](list/A.2/Discrimination.md): Content involving discrimination or hate based on race, gender, region, religion, etc.
 7. [Improper Medical/Health Information](list/A.2/Medical.md): Misleading medical, pharmaceutical, or health advice that may endanger users.
+8. [Low-Quality Content/False Advertising](./list/A.2/Fake.md): Generation of misleading, repetitive, meaningless, or low-value content.
+9. [Harmful Information to Minors](./list/A.2/Kid.md): Content that may negatively affect the physical or mental health of minors, including inappropriate games, early sexual innuendos, or inducement of addiction.
 
 > Auxiliary risks generally refer to content that **may cause social impact or personal harm but does not necessarily violate the law directly**.
