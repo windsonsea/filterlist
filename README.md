@@ -1,5 +1,7 @@
 # A.1 and A.2 17 Categories of Risk Keywords
 
+English | [中文](./README-zh.md)
+
 Based on guidelines from China’s Ministry of Industry and Information Technology and documents such as the *Internet Information Service Large Model Security Management Guide*, *Information Security Graded Protection Guide*, and *Network Content Security Specifications*, 
 the classifications commonly referenced for large model service filings generally divide risks into A.1 (Core Security Risks) and A.2 (Auxiliary Security Risks), totaling 17 subcategories.
 
